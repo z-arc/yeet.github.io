@@ -1,0 +1,21 @@
+body.home{
+  background:  url("fotos/zarc.jpg") no-repeat fixed center;
+  background-size: cover;
+}
+body.persoonlijkheid{
+  background:  url("fotos/Z-Arc.jpg") no-repeat fixed center;
+  background-size: cover;
+  color: white;
+}
+
+body.geschiedenis{
+  background:  url("fotos/jonge zarc.jpg") no-repeat fixed center;
+  background-size: cover;
+  color: red;
+}
+
+body.deck{
+  background:  url("fotos/zarc.jpg") no-repeat fixed center;
+  background-size: cover;
+  color: white;
+}
