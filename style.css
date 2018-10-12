@@ -1,7 +1,8 @@
 body.home{
   background:  url("fotos/zarc.jpg") no-repeat fixed center;
   background-size: cover;
-    color: white;}
+  color: white;
+}
 body.persoonlijkheid{
   background:  url("fotos/Z-Arc.jpg") no-repeat fixed center;
   background-size: cover;
